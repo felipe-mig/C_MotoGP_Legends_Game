@@ -1,7 +1,7 @@
 ## 📄 Description
 
 🏁 This is a project in which I built a MotoGP race simulator game using the C programming language.
-The game brings together the top MotoGP riders of all time for one last race, using structures and pointers to set the race logic. 🏁
+The game brings together the top MotoGP riders of all time for one last race, using structures and pointers to set the race logic. 
 
 The simulation features three legendary riders: 
 
